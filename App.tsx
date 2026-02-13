@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PasswordScreen from "./components/PasswordScreen";
+import PasswordScreen from "./PasswordScreen";
 import MainSite from "./components/MainSite";
 
 export function App() {
